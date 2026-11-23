@@ -1,0 +1,21 @@
+# Модельные веса и видео — передаются отдельно (см. flash/README)
+*.pt
+*.pth
+*.onnx
+*.mp4
+*.avi
+*.mov
+
+# Тяжёлые производные данные
+predictions.json
+new_program/datasets/*/frames/
+new_program/experiments/*/visuals/
+output/
+
+# Python / IDE
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/

@@ -1,0 +1,6443 @@
+[
+  {
+    "filename": "0000001.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          585,
+          284,
+          607,
+          302
+        ],
+        "confidence": 0.7720887660980225,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          798,
+          253,
+          821,
+          273
+        ],
+        "confidence": 0.7714557647705078,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          752,
+          302,
+          775,
+          324
+        ],
+        "confidence": 0.7680088877677917,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          706,
+          245,
+          755,
+          312
+        ],
+        "confidence": 0.7677240967750549,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          601,
+          265,
+          627,
+          286
+        ],
+        "confidence": 0.7283827066421509,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          836,
+          130,
+          850,
+          138
+        ],
+        "confidence": 0.5379053354263306,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          736,
+          167,
+          751,
+          178
+        ],
+        "confidence": 0.40383851528167725,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          672,
+          325,
+          748,
+          439
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          658,
+          191,
+          681,
+          212
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          691,
+          151,
+          715,
+          166
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          707,
+          158,
+          718,
+          173
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          811,
+          135,
+          821,
+          147
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          817,
+          131,
+          829,
+          141
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          914,
+          93,
+          925,
+          106
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          942,
+          135,
+          954,
+          147
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          939,
+          82,
+          949,
+          93
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          777,
+          196,
+          794,
+          208
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          809,
+          192,
+          823,
+          206
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          800,
+          202,
+          816,
+          217
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          824,
+          202,
+          843,
+          216
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          811,
+          216,
+          837,
+          245
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000026.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          702,
+          334,
+          726,
+          359
+        ],
+        "confidence": 0.8202912211418152,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          498,
+          339,
+          531,
+          367
+        ],
+        "confidence": 0.7164410948753357,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          474,
+          365,
+          505,
+          393
+        ],
+        "confidence": 0.6975361704826355,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          647,
+          282,
+          701,
+          363
+        ],
+        "confidence": 0.6414052248001099,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          589,
+          290,
+          608,
+          308
+        ],
+        "confidence": 0.41489243507385254,
+        "source": "model"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          574,
+          229,
+          594,
+          256
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          635,
+          377,
+          710,
+          515
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          878,
+          84,
+          905,
+          101
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          854,
+          95,
+          866,
+          110
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          827,
+          111,
+          840,
+          122
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          745,
+          149,
+          758,
+          162
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          760,
+          150,
+          774,
+          163
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          738,
+          155,
+          751,
+          169
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          711,
+          232,
+          729,
+          251
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          611,
+          181,
+          633,
+          194
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          623,
+          188,
+          637,
+          206
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          644,
+          198,
+          663,
+          212
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          740,
+          227,
+          759,
+          245
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          766,
+          236,
+          787,
+          252
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          758,
+          248,
+          784,
+          287
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          731,
+          244,
+          751,
+          261
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          749,
+          292,
+          772,
+          316
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000051.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          671,
+          311,
+          694,
+          333
+        ],
+        "confidence": 0.8260557055473328,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          610,
+          276,
+          671,
+          354
+        ],
+        "confidence": 0.7369309067726135,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          401,
+          392,
+          434,
+          419
+        ],
+        "confidence": 0.7020111680030823,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          872,
+          154,
+          887,
+          165
+        ],
+        "confidence": 0.43323177099227905,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          433,
+          357,
+          470,
+          389
+        ],
+        "confidence": 0.4084557294845581,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          598,
+          203,
+          616,
+          218
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          538,
+          237,
+          563,
+          264
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          488,
+          246,
+          515,
+          267
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          871,
+          82,
+          889,
+          100
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          844,
+          94,
+          858,
+          110
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          805,
+          112,
+          822,
+          125
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          735,
+          148,
+          747,
+          160
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          750,
+          156,
+          764,
+          170
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          726,
+          159,
+          742,
+          169
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          717,
+          236,
+          734,
+          253
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          682,
+          236,
+          702,
+          256
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          704,
+          253,
+          722,
+          274
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          719,
+          292,
+          741,
+          316
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          595,
+          346,
+          676,
+          464
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          742,
+          243,
+          764,
+          261
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          727,
+          248,
+          760,
+          283
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          578,
+          184,
+          605,
+          196
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          603,
+          191,
+          623,
+          205
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000076.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          442,
+          357,
+          480,
+          382
+        ],
+        "confidence": 0.8384701013565063,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          489,
+          330,
+          533,
+          359
+        ],
+        "confidence": 0.8313643932342529,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          618,
+          229,
+          643,
+          251
+        ],
+        "confidence": 0.5154837965965271,
+        "source": "model"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          666,
+          224,
+          692,
+          249
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          641,
+          216,
+          672,
+          238
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1145,
+          84,
+          1158,
+          94
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1110,
+          86,
+          1141,
+          107
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1014,
+          120,
+          1031,
+          135
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          936,
+          145,
+          948,
+          160
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          923,
+          154,
+          939,
+          165
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          943,
+          155,
+          958,
+          168
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          766,
+          183,
+          786,
+          198
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          760,
+          174,
+          784,
+          189
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          725,
+          197,
+          746,
+          210
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          808,
+          235,
+          835,
+          251
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          850,
+          235,
+          871,
+          249
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          874,
+          240,
+          899,
+          255
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          846,
+          246,
+          881,
+          273
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          825,
+          250,
+          846,
+          266
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          818,
+          277,
+          850,
+          299
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          780,
+          280,
+          811,
+          302
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          697,
+          253,
+          781,
+          314
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          646,
+          301,
+          748,
+          389
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1079,
+          157,
+          1098,
+          171
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1102,
+          218,
+          1130,
+          245
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000101.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          15,
+          572,
+          135,
+          631
+        ],
+        "confidence": 0.9349236488342285,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          398,
+          320,
+          435,
+          342
+        ],
+        "confidence": 0.7689726948738098,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          644,
+          219,
+          676,
+          237
+        ],
+        "confidence": 0.7236422896385193,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          455,
+          300,
+          503,
+          323
+        ],
+        "confidence": 0.6483770608901978,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1041,
+          165,
+          1062,
+          177
+        ],
+        "confidence": 0.5603366494178772,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          693,
+          216,
+          727,
+          241
+        ],
+        "confidence": 0.5584059953689575,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1023,
+          164,
+          1041,
+          175
+        ],
+        "confidence": 0.4817013144493103,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1193,
+          177,
+          1212,
+          190
+        ],
+        "confidence": 0.4621276557445526,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1217,
+          120,
+          1238,
+          134
+        ],
+        "confidence": 0.40069419145584106,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1150,
+          236,
+          1182,
+          261
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1291,
+          208,
+          1316,
+          231
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1263,
+          109,
+          1300,
+          128
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          892,
+          242,
+          920,
+          260
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          831,
+          234,
+          863,
+          251
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          851,
+          245,
+          893,
+          279
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          816,
+          273,
+          848,
+          294
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          798,
+          264,
+          833,
+          280
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          704,
+          238,
+          803,
+          290
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          625,
+          274,
+          742,
+          343
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          832,
+          183,
+          852,
+          194
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          835,
+          171,
+          862,
+          187
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          770,
+          191,
+          788,
+          208
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000126.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          439,
+          302,
+          489,
+          327
+        ],
+        "confidence": 0.888135552406311,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          234,
+          475,
+          315,
+          513
+        ],
+        "confidence": 0.8031364679336548,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          376,
+          318,
+          414,
+          343
+        ],
+        "confidence": 0.7536930441856384,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1234,
+          189,
+          1256,
+          202
+        ],
+        "confidence": 0.6121695637702942,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1075,
+          172,
+          1099,
+          186
+        ],
+        "confidence": 0.5994632840156555,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          701,
+          221,
+          736,
+          245
+        ],
+        "confidence": 0.5777595043182373,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          652,
+          222,
+          685,
+          242
+        ],
+        "confidence": 0.5664448142051697,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          774,
+          195,
+          791,
+          208
+        ],
+        "confidence": 0.5197331309318542,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1058,
+          172,
+          1078,
+          184
+        ],
+        "confidence": 0.470333456993103,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1133,
+          155,
+          1154,
+          168
+        ],
+        "confidence": 0.4265735149383545,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          858,
+          185,
+          882,
+          201
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          839,
+          242,
+          874,
+          258
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          886,
+          246,
+          909,
+          258
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          900,
+          250,
+          932,
+          271
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          854,
+          259,
+          897,
+          287
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          809,
+          268,
+          846,
+          285
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          816,
+          285,
+          852,
+          301
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          714,
+          239,
+          820,
+          286
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          639,
+          271,
+          764,
+          341
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1304,
+          121,
+          1336,
+          144
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1172,
+          251,
+          1202,
+          280
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000151.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          311,
+          367,
+          356,
+          393
+        ],
+        "confidence": 0.8597543835639954,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          382,
+          342,
+          439,
+          372
+        ],
+        "confidence": 0.8198265433311462,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          628,
+          245,
+          663,
+          265
+        ],
+        "confidence": 0.6570490002632141,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1117,
+          171,
+          1138,
+          181
+        ],
+        "confidence": 0.617595911026001,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1248,
+          200,
+          1271,
+          213
+        ],
+        "confidence": 0.5617434978485107,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1082,
+          184,
+          1106,
+          197
+        ],
+        "confidence": 0.5078224539756775,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          680,
+          243,
+          720,
+          269
+        ],
+        "confidence": 0.484368234872818,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          337,
+          485,
+          421,
+          527
+        ],
+        "confidence": 0.47198158502578735,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          740,
+          210,
+          762,
+          224
+        ],
+        "confidence": 0.4507520794868469,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          846,
+          196,
+          876,
+          217
+        ],
+        "confidence": 0.446271687746048,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1290,
+          128,
+          1312,
+          147
+        ],
+        "confidence": 0.4221593737602234,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          828,
+          263,
+          864,
+          283
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          875,
+          268,
+          909,
+          283
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          895,
+          278,
+          927,
+          295
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          841,
+          284,
+          886,
+          316
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          802,
+          294,
+          839,
+          312
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          803,
+          308,
+          842,
+          329
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          642,
+          296,
+          770,
+          369
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          705,
+          262,
+          822,
+          316
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1061,
+          177,
+          1083,
+          195
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1082,
+          174,
+          1102,
+          186
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1226,
+          141,
+          1254,
+          159
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1192,
+          272,
+          1222,
+          300
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000176.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          410,
+          455,
+          487,
+          496
+        ],
+        "confidence": 0.9050525426864624,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          334,
+          356,
+          396,
+          388
+        ],
+        "confidence": 0.8888193964958191,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          255,
+          383,
+          304,
+          411
+        ],
+        "confidence": 0.8852024078369141,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          618,
+          252,
+          658,
+          274
+        ],
+        "confidence": 0.7321102023124695,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1144,
+          172,
+          1168,
+          186
+        ],
+        "confidence": 0.6420950293540955,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          673,
+          251,
+          716,
+          278
+        ],
+        "confidence": 0.6406742334365845,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1119,
+          186,
+          1145,
+          199
+        ],
+        "confidence": 0.5382949709892273,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1299,
+          202,
+          1322,
+          216
+        ],
+        "confidence": 0.4722403883934021,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1098,
+          185,
+          1120,
+          197
+        ],
+        "confidence": 0.4221906363964081,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1224,
+          279,
+          1249,
+          321
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1256,
+          143,
+          1284,
+          164
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1322,
+          129,
+          1336,
+          152
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          831,
+          274,
+          870,
+          289
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          879,
+          280,
+          920,
+          295
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          901,
+          288,
+          942,
+          305
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          836,
+          294,
+          886,
+          329
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          797,
+          306,
+          841,
+          325
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          790,
+          326,
+          835,
+          347
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          696,
+          271,
+          826,
+          322
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          628,
+          300,
+          769,
+          384
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          736,
+          211,
+          760,
+          227
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          871,
+          195,
+          900,
+          215
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          867,
+          209,
+          892,
+          223
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000201.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          401,
+          329,
+          463,
+          356
+        ],
+        "confidence": 0.9030600786209106,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          323,
+          345,
+          366,
+          370
+        ],
+        "confidence": 0.9026822447776794,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          529,
+          400,
+          600,
+          433
+        ],
+        "confidence": 0.8948826789855957,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1312,
+          198,
+          1343,
+          214
+        ],
+        "confidence": 0.5694919228553772,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          728,
+          245,
+          770,
+          267
+        ],
+        "confidence": 0.4937562048435211,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          -7,
+          431,
+          192,
+          543
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1038,
+          202,
+          1065,
+          226
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1016,
+          214,
+          1054,
+          231
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          785,
+          246,
+          829,
+          269
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1007,
+          283,
+          1051,
+          300
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1018,
+          296,
+          1066,
+          317
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          941,
+          280,
+          986,
+          300
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          923,
+          305,
+          978,
+          338
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          888,
+          306,
+          930,
+          325
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          864,
+          329,
+          911,
+          358
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          779,
+          268,
+          933,
+          325
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          689,
+          295,
+          854,
+          378
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          873,
+          203,
+          894,
+          226
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000226.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          259,
+          307,
+          323,
+          332
+        ],
+        "confidence": 0.8843866586685181,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          179,
+          320,
+          223,
+          343
+        ],
+        "confidence": 0.8554286360740662,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          431,
+          360,
+          482,
+          388
+        ],
+        "confidence": 0.7827417254447937,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          0,
+          369,
+          118,
+          450
+        ],
+        "confidence": 0.5841552019119263,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          919,
+          274,
+          970,
+          288
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          914,
+          283,
+          962,
+          307
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1276,
+          197,
+          1308,
+          217
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1306,
+          204,
+          1336,
+          221
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1314,
+          192,
+          1336,
+          205
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          971,
+          196,
+          1005,
+          219
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          955,
+          209,
+          986,
+          227
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          682,
+          241,
+          730,
+          260
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          631,
+          236,
+          674,
+          259
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          709,
+          315,
+          755,
+          344
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          819,
+          272,
+          870,
+          289
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          838,
+          284,
+          880,
+          305
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          794,
+          290,
+          844,
+          328
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          754,
+          298,
+          784,
+          318
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          646,
+          259,
+          808,
+          312
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          537,
+          283,
+          695,
+          350
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1255,
+          316,
+          1290,
+          358
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          142,
+          441,
+          189,
+          475
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000251.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          114,
+          297,
+          178,
+          320
+        ],
+        "confidence": 0.8284618854522705,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1240,
+          215,
+          1278,
+          229
+        ],
+        "confidence": 0.7629026174545288,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          30,
+          309,
+          74,
+          330
+        ],
+        "confidence": 0.7520815134048462,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          0,
+          339,
+          44,
+          399
+        ],
+        "confidence": 0.6511968970298767,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1296,
+          202,
+          1330,
+          217
+        ],
+        "confidence": 0.5416688919067383,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1216,
+          208,
+          1256,
+          224
+        ],
+        "confidence": 0.5397346615791321,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          528,
+          234,
+          567,
+          254
+        ],
+        "confidence": 0.5358961224555969,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          872,
+          211,
+          903,
+          229
+        ],
+        "confidence": 0.49281013011932373,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1100,
+          330,
+          1139,
+          367
+        ],
+        "confidence": 0.47379711270332336,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          891,
+          201,
+          925,
+          222
+        ],
+        "confidence": 0.46212100982666016,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1257,
+          206,
+          1288,
+          220
+        ],
+        "confidence": 0.44243237376213074,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          612,
+          233,
+          643,
+          248
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          570,
+          239,
+          618,
+          260
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1013,
+          442,
+          1052,
+          469
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          340,
+          343,
+          408,
+          369
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          552,
+          315,
+          606,
+          342
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          649,
+          291,
+          684,
+          316
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          669,
+          288,
+          730,
+          325
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          712,
+          275,
+          762,
+          290
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          746,
+          282,
+          791,
+          304
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          843,
+          270,
+          890,
+          285
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          835,
+          282,
+          886,
+          304
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          507,
+          261,
+          681,
+          307
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          403,
+          275,
+          589,
+          338
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          720,
+          191,
+          740,
+          209
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000276.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          324,
+          371,
+          398,
+          400
+        ],
+        "confidence": 0.9073273539543152,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          34,
+          320,
+          106,
+          347
+        ],
+        "confidence": 0.904090940952301,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          921,
+          311,
+          981,
+          332
+        ],
+        "confidence": 0.867615282535553,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          546,
+          344,
+          599,
+          374
+        ],
+        "confidence": 0.7996360063552856,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1120,
+          388,
+          1171,
+          436
+        ],
+        "confidence": 0.7837358117103577,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          803,
+          308,
+          854,
+          330
+        ],
+        "confidence": 0.7664989233016968,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          921,
+          297,
+          974,
+          316
+        ],
+        "confidence": 0.6772431135177612,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          594,
+          252,
+          626,
+          267
+        ],
+        "confidence": 0.6700116991996765,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1286,
+          237,
+          1332,
+          253
+        ],
+        "confidence": 0.6626167893409729,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          503,
+          254,
+          547,
+          277
+        ],
+        "confidence": 0.6219838857650757,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          892,
+          234,
+          931,
+          254
+        ],
+        "confidence": 0.6167567372322083,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1321,
+          244,
+          1344,
+          261
+        ],
+        "confidence": 0.6122546195983887,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          691,
+          319,
+          745,
+          342
+        ],
+        "confidence": 0.5834295749664307,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          720,
+          316,
+          777,
+          356
+        ],
+        "confidence": 0.49980926513671875,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          -7,
+          366,
+          23,
+          423
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          102,
+          432,
+          158,
+          460
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          985,
+          538,
+          1036,
+          579
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          553,
+          262,
+          606,
+          286
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          924,
+          224,
+          957,
+          247
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          723,
+          198,
+          738,
+          218
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          473,
+          289,
+          678,
+          334
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          389,
+          305,
+          591,
+          369
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000301.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          962,
+          357,
+          1030,
+          385
+        ],
+        "confidence": 0.9133427143096924,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          802,
+          361,
+          865,
+          388
+        ],
+        "confidence": 0.8998321890830994,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          465,
+          431,
+          541,
+          470
+        ],
+        "confidence": 0.8951259851455688,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          927,
+          343,
+          984,
+          368
+        ],
+        "confidence": 0.8648005127906799,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          177,
+          485,
+          271,
+          525
+        ],
+        "confidence": 0.8128158450126648,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1082,
+          486,
+          1143,
+          556
+        ],
+        "confidence": 0.7857446670532227,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          232,
+          377,
+          498,
+          474
+        ],
+        "confidence": 0.7599589824676514,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1265,
+          268,
+          1314,
+          288
+        ],
+        "confidence": 0.7284325957298279,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          795,
+          273,
+          840,
+          293
+        ],
+        "confidence": 0.6945430040359497,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          664,
+          384,
+          708,
+          409
+        ],
+        "confidence": 0.6910735964775085,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          698,
+          362,
+          759,
+          385
+        ],
+        "confidence": 0.6668666005134583,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1197,
+          266,
+          1246,
+          285
+        ],
+        "confidence": 0.6339588761329651,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          329,
+          313,
+          384,
+          341
+        ],
+        "confidence": 0.54034024477005,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1273,
+          252,
+          1312,
+          268
+        ],
+        "confidence": 0.4957006871700287,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          703,
+          376,
+          789,
+          426
+        ],
+        "confidence": 0.48008161783218384,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1328,
+          251,
+          1345,
+          268
+        ],
+        "confidence": 0.4592907726764679,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          382,
+          318,
+          455,
+          353
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          316,
+          355,
+          572,
+          420
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          578,
+          225,
+          597,
+          244
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          832,
+          261,
+          867,
+          284
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000326.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          201,
+          586,
+          314,
+          637
+        ],
+        "confidence": 0.9297094941139221,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          783,
+          430,
+          878,
+          493
+        ],
+        "confidence": 0.9276180863380432,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          195,
+          456,
+          510,
+          588
+        ],
+        "confidence": 0.9127261638641357,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1101,
+          392,
+          1170,
+          423
+        ],
+        "confidence": 0.9126980900764465,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1023,
+          381,
+          1085,
+          410
+        ],
+        "confidence": 0.9047210812568665,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          899,
+          409,
+          966,
+          439
+        ],
+        "confidence": 0.8999258279800415,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1257,
+          303,
+          1309,
+          326
+        ],
+        "confidence": 0.8461761474609375,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          736,
+          440,
+          797,
+          474
+        ],
+        "confidence": 0.8230391144752502,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1128,
+          309,
+          1179,
+          333
+        ],
+        "confidence": 0.7979366779327393,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1224,
+          291,
+          1267,
+          316
+        ],
+        "confidence": 0.759932816028595,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1280,
+          246,
+          1343,
+          292
+        ],
+        "confidence": 0.6451773047447205,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          210,
+          383,
+          279,
+          419
+        ],
+        "confidence": 0.6398681998252869,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          747,
+          320,
+          797,
+          343
+        ],
+        "confidence": 0.6209591627120972,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          777,
+          298,
+          825,
+          328
+        ],
+        "confidence": 0.58367919921875,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1294,
+          281,
+          1340,
+          304
+        ],
+        "confidence": 0.5407069325447083,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          743,
+          416,
+          815,
+          445
+        ],
+        "confidence": 0.5325891971588135,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          543,
+          503,
+          624,
+          548
+        ],
+        "confidence": 0.4662654995918274,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1110,
+          608,
+          1180,
+          704
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          246,
+          430,
+          553,
+          508
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          276,
+          391,
+          354,
+          429
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          329,
+          369,
+          403,
+          393
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          79,
+          262,
+          135,
+          288
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000351.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "truck",
+        "bbox": [
+          571,
+          379,
+          649,
+          436
+        ],
+        "confidence": 0.8993975520133972,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          63,
+          581,
+          180,
+          637
+        ],
+        "confidence": 0.8524544835090637,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          661,
+          353,
+          713,
+          379
+        ],
+        "confidence": 0.8346399664878845,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          542,
+          390,
+          592,
+          422
+        ],
+        "confidence": 0.7904718518257141,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          756,
+          320,
+          805,
+          343
+        ],
+        "confidence": 0.7515592575073242,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          667,
+          297,
+          714,
+          321
+        ],
+        "confidence": 0.7297561168670654,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          917,
+          213,
+          962,
+          246
+        ],
+        "confidence": 0.6963509917259216,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          843,
+          311,
+          893,
+          333
+        ],
+        "confidence": 0.672606348991394,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1187,
+          410,
+          1240,
+          447
+        ],
+        "confidence": 0.6183921098709106,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          383,
+          322,
+          437,
+          346
+        ],
+        "confidence": 0.6116975545883179,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          413,
+          298,
+          465,
+          327
+        ],
+        "confidence": 0.5994539260864258,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          840,
+          262,
+          880,
+          282
+        ],
+        "confidence": 0.5988002419471741,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1080,
+          290,
+          1118,
+          312
+        ],
+        "confidence": 0.5630037784576416,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1233,
+          449,
+          1295,
+          479
+        ],
+        "confidence": 0.43956100940704346,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          839,
+          246,
+          876,
+          265
+        ],
+        "confidence": 0.43555599451065063,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          23,
+          280,
+          52,
+          301
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1,
+          451,
+          265,
+          635
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          361,
+          475,
+          432,
+          516
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          748,
+          539,
+          796,
+          626
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          494,
+          380,
+          555,
+          418
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          774,
+          227,
+          872,
+          274
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          778,
+          265,
+          815,
+          289
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000376.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          418,
+          317,
+          471,
+          345
+        ],
+        "confidence": 0.8696936964988708,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          443,
+          349,
+          499,
+          375
+        ],
+        "confidence": 0.8379589319229126,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          605,
+          311,
+          650,
+          333
+        ],
+        "confidence": 0.8065012097358704,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          721,
+          212,
+          767,
+          243
+        ],
+        "confidence": 0.805794358253479,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          674,
+          254,
+          711,
+          273
+        ],
+        "confidence": 0.7606479525566101,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          781,
+          261,
+          820,
+          280
+        ],
+        "confidence": 0.6667603254318237,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          523,
+          337,
+          568,
+          365
+        ],
+        "confidence": 0.6468701362609863,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          994,
+          376,
+          1036,
+          409
+        ],
+        "confidence": 0.6426753997802734,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          545,
+          337,
+          606,
+          380
+        ],
+        "confidence": 0.6239616870880127,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          361,
+          416,
+          425,
+          452
+        ],
+        "confidence": 0.6099066734313965,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          637,
+          248,
+          674,
+          271
+        ],
+        "confidence": 0.5172057151794434,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          248,
+          301,
+          300,
+          331
+        ],
+        "confidence": 0.5148292183876038,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          219,
+          327,
+          273,
+          350
+        ],
+        "confidence": 0.5050696730613708,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          894,
+          273,
+          929,
+          292
+        ],
+        "confidence": 0.46523037552833557,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1,
+          430,
+          169,
+          503
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          147,
+          506,
+          234,
+          557
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          0,
+          432,
+          240,
+          590
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          604,
+          513,
+          648,
+          592
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1264,
+          458,
+          1319,
+          493
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1180,
+          157,
+          1204,
+          174
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1210,
+          103,
+          1229,
+          115
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          556,
+          277,
+          596,
+          301
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          517,
+          233,
+          632,
+          297
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          687,
+          282,
+          723,
+          304
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          983,
+          551,
+          1042,
+          583
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000401.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          424,
+          418,
+          492,
+          455
+        ],
+        "confidence": 0.9205331802368164,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          568,
+          357,
+          619,
+          384
+        ],
+        "confidence": 0.8935872912406921,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          359,
+          344,
+          419,
+          374
+        ],
+        "confidence": 0.8628121018409729,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          60,
+          519,
+          194,
+          614
+        ],
+        "confidence": 0.8053705096244812,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          605,
+          308,
+          651,
+          330
+        ],
+        "confidence": 0.7882009148597717,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          743,
+          274,
+          778,
+          296
+        ],
+        "confidence": 0.7278265357017517,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          684,
+          286,
+          720,
+          309
+        ],
+        "confidence": 0.6549464464187622,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          704,
+          302,
+          754,
+          332
+        ],
+        "confidence": 0.602352499961853,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          735,
+          219,
+          776,
+          249
+        ],
+        "confidence": 0.5970932245254517,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          720,
+          250,
+          756,
+          270
+        ],
+        "confidence": 0.582984983921051,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          315,
+          289,
+          364,
+          317
+        ],
+        "confidence": 0.5549863576889038,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          546,
+          294,
+          589,
+          320
+        ],
+        "confidence": 0.5409972667694092,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          290,
+          314,
+          340,
+          337
+        ],
+        "confidence": 0.5263966917991638,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1052,
+          373,
+          1095,
+          406
+        ],
+        "confidence": 0.5005128383636475,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          812,
+          250,
+          845,
+          269
+        ],
+        "confidence": 0.46655622124671936,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          940,
+          273,
+          972,
+          292
+        ],
+        "confidence": 0.4512043595314026,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1095,
+          405,
+          1146,
+          429
+        ],
+        "confidence": 0.43507760763168335,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1252,
+          449,
+          1306,
+          480
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1074,
+          540,
+          1129,
+          568
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          707,
+          495,
+          748,
+          572
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          94,
+          386,
+          343,
+          515
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          227,
+          371,
+          449,
+          494
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          458,
+          253,
+          589,
+          324
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          647,
+          257,
+          680,
+          280
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1190,
+          177,
+          1212,
+          192
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1222,
+          115,
+          1237,
+          127
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000426.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          724,
+          367,
+          773,
+          395
+        ],
+        "confidence": 0.8650322556495667,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          803,
+          228,
+          844,
+          264
+        ],
+        "confidence": 0.8112897872924805,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          811,
+          318,
+          852,
+          342
+        ],
+        "confidence": 0.774020791053772,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          811,
+          280,
+          847,
+          300
+        ],
+        "confidence": 0.7677326202392578,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          714,
+          274,
+          750,
+          297
+        ],
+        "confidence": 0.7060112953186035,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1203,
+          377,
+          1252,
+          408
+        ],
+        "confidence": 0.6239176392555237,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          0,
+          450,
+          61,
+          505
+        ],
+        "confidence": 0.6207307577133179,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          942,
+          498,
+          981,
+          566
+        ],
+        "confidence": 0.5806431174278259,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1026,
+          484,
+          1081,
+          530
+        ],
+        "confidence": 0.5580301880836487,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          909,
+          274,
+          948,
+          300
+        ],
+        "confidence": 0.5088324546813965,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1,
+          416,
+          88,
+          464
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          523,
+          434,
+          610,
+          499
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          830,
+          252,
+          860,
+          272
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          878,
+          251,
+          912,
+          271
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          977,
+          233,
+          1003,
+          248
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1069,
+          209,
+          1096,
+          226
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1243,
+          194,
+          1264,
+          212
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1054,
+          278,
+          1084,
+          298
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1292,
+          538,
+          1335,
+          568
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          458,
+          288,
+          500,
+          317
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          436,
+          307,
+          478,
+          334
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          478,
+          291,
+          618,
+          370
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          597,
+          325,
+          641,
+          355
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          553,
+          334,
+          702,
+          433
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          404,
+          361,
+          590,
+          475
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          357,
+          398,
+          423,
+          437
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000451.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          47,
+          559,
+          142,
+          624
+        ],
+        "confidence": 0.9287484288215637,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          222,
+          353,
+          388,
+          468
+        ],
+        "confidence": 0.883874237537384,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          581,
+          364,
+          641,
+          421
+        ],
+        "confidence": 0.8806638121604919,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          593,
+          236,
+          631,
+          273
+        ],
+        "confidence": 0.7315007448196411,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          519,
+          291,
+          556,
+          318
+        ],
+        "confidence": 0.715999960899353,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          695,
+          243,
+          718,
+          258
+        ],
+        "confidence": 0.6104874610900879,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          650,
+          243,
+          677,
+          263
+        ],
+        "confidence": 0.6076135039329529,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1166,
+          702,
+          1208,
+          755
+        ],
+        "confidence": 0.5972470045089722,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          676,
+          312,
+          708,
+          334
+        ],
+        "confidence": 0.559876561164856,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          299,
+          334,
+          348,
+          361
+        ],
+        "confidence": 0.5351486802101135,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          768,
+          228,
+          799,
+          252
+        ],
+        "confidence": 0.5032109618186951,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          719,
+          268,
+          747,
+          288
+        ],
+        "confidence": 0.5031059980392456,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1032,
+          324,
+          1063,
+          347
+        ],
+        "confidence": 0.4913719594478607,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          383,
+          393,
+          422,
+          434
+        ],
+        "confidence": 0.46914756298065186,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1072,
+          345,
+          1116,
+          361
+        ],
+        "confidence": 0.45567888021469116,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1248,
+          363,
+          1278,
+          381
+        ],
+        "confidence": 0.4351530075073242,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          677,
+          312,
+          708,
+          334
+        ],
+        "confidence": 0.42403560876846313,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          879,
+          452,
+          937,
+          511
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          306,
+          309,
+          351,
+          336
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          44,
+          637,
+          245,
+          749
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          549,
+          299,
+          644,
+          395
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          416,
+          337,
+          547,
+          452
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          855,
+          249,
+          881,
+          268
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          957,
+          175,
+          973,
+          191
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          871,
+          169,
+          889,
+          183
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          803,
+          191,
+          826,
+          207
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          747,
+          206,
+          769,
+          225
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          937,
+          103,
+          951,
+          113
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000476.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "truck",
+        "bbox": [
+          146,
+          429,
+          332,
+          622
+        ],
+        "confidence": 0.9332543611526489,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          520,
+          304,
+          609,
+          404
+        ],
+        "confidence": 0.8824540972709656,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          623,
+          270,
+          683,
+          343
+        ],
+        "confidence": 0.8506839275360107,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          555,
+          248,
+          592,
+          291
+        ],
+        "confidence": 0.8158585429191589,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          676,
+          303,
+          714,
+          348
+        ],
+        "confidence": 0.7764512300491333,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          496,
+          312,
+          533,
+          343
+        ],
+        "confidence": 0.756454586982727,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          946,
+          423,
+          1012,
+          478
+        ],
+        "confidence": 0.7217330932617188,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          325,
+          337,
+          361,
+          363
+        ],
+        "confidence": 0.6013956665992737,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          338,
+          495,
+          400,
+          552
+        ],
+        "confidence": 0.5734560489654541,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1314,
+          340,
+          1344,
+          367
+        ],
+        "confidence": 0.5317622423171997,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          323,
+          311,
+          370,
+          339
+        ],
+        "confidence": 0.4937061071395874,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          0,
+          521,
+          51,
+          565
+        ],
+        "confidence": 0.44876959919929504,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          304,
+          551,
+          492,
+          747
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          -7,
+          554,
+          78,
+          641
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1186,
+          406,
+          1230,
+          432
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          834,
+          236,
+          855,
+          253
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          893,
+          170,
+          910,
+          192
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          849,
+          93,
+          860,
+          102
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          837,
+          140,
+          849,
+          151
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          785,
+          164,
+          801,
+          178
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          748,
+          172,
+          763,
+          188
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          758,
+          185,
+          772,
+          202
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          769,
+          188,
+          794,
+          221
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          738,
+          227,
+          760,
+          247
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          637,
+          234,
+          658,
+          256
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          714,
+          266,
+          737,
+          284
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1298,
+          636,
+          1337,
+          683
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000501.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          513,
+          388,
+          555,
+          430
+        ],
+        "confidence": 0.9089025855064392,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          623,
+          310,
+          694,
+          412
+        ],
+        "confidence": 0.9019924402236938,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          575,
+          297,
+          618,
+          351
+        ],
+        "confidence": 0.8442660570144653,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          712,
+          257,
+          760,
+          335
+        ],
+        "confidence": 0.8319547176361084,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          368,
+          378,
+          410,
+          409
+        ],
+        "confidence": 0.788047194480896,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          0,
+          627,
+          79,
+          700
+        ],
+        "confidence": 0.7880018949508667,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          767,
+          285,
+          800,
+          327
+        ],
+        "confidence": 0.7157449126243591,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          678,
+          253,
+          702,
+          274
+        ],
+        "confidence": 0.6489846110343933,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          361,
+          347,
+          412,
+          380
+        ],
+        "confidence": 0.6112303733825684,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1149,
+          369,
+          1184,
+          393
+        ],
+        "confidence": 0.4464505612850189,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1115,
+          325,
+          1158,
+          349
+        ],
+        "confidence": 0.4097456634044647,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          536,
+          574,
+          652,
+          745
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1095,
+          478,
+          1173,
+          547
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          948,
+          472,
+          994,
+          504
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          852,
+          94,
+          864,
+          103
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          872,
+          129,
+          885,
+          143
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          932,
+          189,
+          949,
+          206
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          893,
+          247,
+          913,
+          271
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          800,
+          157,
+          816,
+          172
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          830,
+          152,
+          842,
+          167
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          806,
+          174,
+          822,
+          191
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          821,
+          180,
+          844,
+          208
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          763,
+          198,
+          779,
+          213
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          803,
+          218,
+          819,
+          235
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          789,
+          246,
+          806,
+          266
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "bus",
+        "bbox": [
+          12,
+          682,
+          119,
+          748
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000526.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          295,
+          644,
+          366,
+          735
+        ],
+        "confidence": 0.9113330841064453,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          397,
+          432,
+          458,
+          520
+        ],
+        "confidence": 0.8825706243515015,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          533,
+          348,
+          599,
+          473
+        ],
+        "confidence": 0.8650879263877869,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          161,
+          522,
+          218,
+          574
+        ],
+        "confidence": 0.8033196330070496,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          616,
+          281,
+          653,
+          356
+        ],
+        "confidence": 0.7566124200820923,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          548,
+          302,
+          573,
+          328
+        ],
+        "confidence": 0.7455989718437195,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1066,
+          369,
+          1112,
+          397
+        ],
+        "confidence": 0.7285215854644775,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          675,
+          247,
+          696,
+          268
+        ],
+        "confidence": 0.7142773270606995,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          683,
+          219,
+          702,
+          236
+        ],
+        "confidence": 0.7043370604515076,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          675,
+          291,
+          707,
+          334
+        ],
+        "confidence": 0.6727036833763123,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1154,
+          613,
+          1260,
+          706
+        ],
+        "confidence": 0.5878280401229858,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          641,
+          199,
+          661,
+          213
+        ],
+        "confidence": 0.5632447600364685,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          673,
+          153,
+          688,
+          166
+        ],
+        "confidence": 0.4019879698753357,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1283,
+          427,
+          1337,
+          470
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          551,
+          731,
+          627,
+          748
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          145,
+          481,
+          224,
+          514
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          696,
+          182,
+          717,
+          206
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          681,
+          178,
+          695,
+          191
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          692,
+          102,
+          701,
+          111
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          815,
+          218,
+          836,
+          242
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          791,
+          283,
+          809,
+          313
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1064,
+          572,
+          1110,
+          610
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          698,
+          150,
+          713,
+          166
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          732,
+          122,
+          747,
+          138
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000551.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          551,
+          387,
+          581,
+          423
+        ],
+        "confidence": 0.8346550464630127,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          711,
+          264,
+          731,
+          282
+        ],
+        "confidence": 0.8332387804985046,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          716,
+          232,
+          735,
+          250
+        ],
+        "confidence": 0.8210496306419373,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          556,
+          417,
+          628,
+          576
+        ],
+        "confidence": 0.8152684569358826,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1252,
+          505,
+          1321,
+          548
+        ],
+        "confidence": 0.7573449015617371,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          674,
+          208,
+          690,
+          223
+        ],
+        "confidence": 0.7019858360290527,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          649,
+          300,
+          690,
+          396
+        ],
+        "confidence": 0.6464627385139465,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          708,
+          154,
+          723,
+          167
+        ],
+        "confidence": 0.6407738327980042,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          715,
+          312,
+          746,
+          358
+        ],
+        "confidence": 0.5854594111442566,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          732,
+          157,
+          745,
+          167
+        ],
+        "confidence": 0.5678936243057251,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          766,
+          128,
+          776,
+          137
+        ],
+        "confidence": 0.4728299081325531,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1296,
+          653,
+          1337,
+          699
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          876,
+          275,
+          902,
+          305
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          730,
+          188,
+          750,
+          214
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          714,
+          187,
+          727,
+          203
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          705,
+          112,
+          715,
+          124
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000576.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          783,
+          265,
+          805,
+          285
+        ],
+        "confidence": 0.8411070704460144,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          793,
+          235,
+          813,
+          253
+        ],
+        "confidence": 0.8045779466629028,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          532,
+          487,
+          579,
+          539
+        ],
+        "confidence": 0.7914435267448425,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          691,
+          327,
+          741,
+          418
+        ],
+        "confidence": 0.7887240052223206,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          759,
+          211,
+          776,
+          225
+        ],
+        "confidence": 0.7285387516021729,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          810,
+          150,
+          827,
+          162
+        ],
+        "confidence": 0.6903427243232727,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          963,
+          358,
+          994,
+          395
+        ],
+        "confidence": 0.6518469452857971,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          829,
+          155,
+          842,
+          166
+        ],
+        "confidence": 0.5815628170967102,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          816,
+          186,
+          838,
+          212
+        ],
+        "confidence": 0.5686620473861694,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          802,
+          187,
+          818,
+          201
+        ],
+        "confidence": 0.5491858720779419,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          769,
+          321,
+          806,
+          369
+        ],
+        "confidence": 0.4731859266757965,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          934,
+          467,
+          960,
+          507
+        ],
+        "confidence": 0.41611406207084656,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          544,
+          457,
+          648,
+          653
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          791,
+          122,
+          802,
+          131
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000601.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "car",
+        "bbox": [
+          862,
+          536,
+          916,
+          588
+        ],
+        "confidence": 0.8544418811798096,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          739,
+          297,
+          824,
+          384
+        ],
+        "confidence": 0.8128188848495483,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          850,
+          296,
+          897,
+          340
+        ],
+        "confidence": 0.7940233945846558,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          914,
+          249,
+          939,
+          267
+        ],
+        "confidence": 0.7876980304718018,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          978,
+          443,
+          1019,
+          492
+        ],
+        "confidence": 0.7075737118721008,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          412,
+          513,
+          476,
+          570
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          470,
+          419,
+          640,
+          581
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          993,
+          129,
+          1008,
+          138
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          988,
+          178,
+          1004,
+          192
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          998,
+          179,
+          1018,
+          204
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          932,
+          199,
+          951,
+          212
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          946,
+          223,
+          965,
+          240
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1033,
+          142,
+          1046,
+          153
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1113,
+          93,
+          1123,
+          102
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  },
+  {
+    "filename": "0000626.jpg",
+    "width": 1344,
+    "height": 756,
+    "objects": [
+      {
+        "class": "truck",
+        "bbox": [
+          805,
+          261,
+          922,
+          335
+        ],
+        "confidence": 0.9232082366943359,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          642,
+          528,
+          718,
+          575
+        ],
+        "confidence": 0.9184997081756592,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          790,
+          492,
+          853,
+          547
+        ],
+        "confidence": 0.9148384928703308,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          0,
+          595,
+          102,
+          723
+        ],
+        "confidence": 0.8975763916969299,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          451,
+          349,
+          647,
+          458
+        ],
+        "confidence": 0.7941145300865173,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1062,
+          234,
+          1091,
+          252
+        ],
+        "confidence": 0.792878270149231,
+        "source": "model"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          953,
+          266,
+          1003,
+          304
+        ],
+        "confidence": 0.48309454321861267,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1217,
+          145,
+          1234,
+          154
+        ],
+        "confidence": 0.4634825587272644,
+        "source": "model"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          277,
+          457,
+          357,
+          502
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1126,
+          196,
+          1148,
+          209
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "car",
+        "bbox": [
+          1121,
+          215,
+          1144,
+          232
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      },
+      {
+        "class": "truck",
+        "bbox": [
+          1212,
+          180,
+          1242,
+          206
+        ],
+        "confidence": 1.0,
+        "source": "manual"
+      }
+    ]
+  }
+]

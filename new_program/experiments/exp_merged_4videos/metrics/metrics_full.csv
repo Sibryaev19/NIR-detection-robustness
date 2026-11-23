@@ -1,0 +1,52 @@
+﻿experiment_id,distortion_id,display_name,is_clean,primary_param_label,primary_param_value,AP@50,Recall,F1,Mean_IoU,relative_AP
+clean,clean,Clean (baseline),True,,,0.6704,0.8937,0.2886,0.8165,1.0
+gaussian_noise_sigma_3,gaussian_noise,Гауссовский шум,False,sigma,3.0,0.6663,0.8889,0.2869,0.8103,0.9939
+gaussian_noise_sigma_7,gaussian_noise,Гауссовский шум,False,sigma,7.0,0.664,0.8845,0.2829,0.805,0.9905
+gaussian_noise_sigma_12,gaussian_noise,Гауссовский шум,False,sigma,12.0,0.6584,0.8832,0.2793,0.7972,0.9821
+gaussian_noise_sigma_18,gaussian_noise,Гауссовский шум,False,sigma,18.0,0.6388,0.8778,0.2764,0.7837,0.9529
+gaussian_noise_sigma_25,gaussian_noise,Гауссовский шум,False,sigma,25.0,0.6182,0.8781,0.2808,0.7759,0.9221
+gaussian_noise_sigma_35,gaussian_noise,Гауссовский шум,False,sigma,35.0,0.5773,0.8569,0.2584,0.7622,0.8611
+gaussian_noise_sigma_50,gaussian_noise,Гауссовский шум,False,sigma,50.0,0.5194,0.8334,0.2435,0.7432,0.7748
+gaussian_noise_sigma_70,gaussian_noise,Гауссовский шум,False,sigma,70.0,0.4341,0.7658,0.2125,0.7189,0.6475
+gaussian_noise_sigma_90,gaussian_noise,Гауссовский шум,False,sigma,90.0,0.3585,0.6772,0.1843,0.6988,0.5348
+gaussian_noise_sigma_110,gaussian_noise,Гауссовский шум,False,sigma,110.0,0.2616,0.5662,0.1913,0.681,0.3902
+jpeg_compress_quality_95,jpeg_compress,JPEG-сжатие,False,quality,95.0,0.6701,0.8915,0.2872,0.8137,0.9996
+jpeg_compress_quality_80,jpeg_compress,JPEG-сжатие,False,quality,80.0,0.6665,0.8921,0.2867,0.811,0.9942
+jpeg_compress_quality_60,jpeg_compress,JPEG-сжатие,False,quality,60.0,0.6603,0.8864,0.2868,0.8045,0.9849
+jpeg_compress_quality_40,jpeg_compress,JPEG-сжатие,False,quality,40.0,0.6559,0.8908,0.2824,0.7978,0.9784
+jpeg_compress_quality_25,jpeg_compress,JPEG-сжатие,False,quality,25.0,0.6473,0.8851,0.2785,0.7891,0.9655
+jpeg_compress_quality_15,jpeg_compress,JPEG-сжатие,False,quality,15.0,0.6218,0.8759,0.2666,0.7794,0.9275
+jpeg_compress_quality_10,jpeg_compress,JPEG-сжатие,False,quality,10.0,0.5915,0.8788,0.2553,0.7626,0.8823
+jpeg_compress_quality_7,jpeg_compress,JPEG-сжатие,False,quality,7.0,0.5502,0.86,0.242,0.7505,0.8207
+jpeg_compress_quality_4,jpeg_compress,JPEG-сжатие,False,quality,4.0,0.4454,0.7842,0.2175,0.7234,0.6644
+jpeg_compress_quality_2,jpeg_compress,JPEG-сжатие,False,quality,2.0,0.3462,0.688,0.2061,0.6976,0.5164
+gaussian_blur_sigma_0.5_ksize_3,gaussian_blur,Гауссовское размытие,False,sigma,0.5,0.6625,0.8858,0.288,0.8133,0.9882
+gaussian_blur_sigma_1.0_ksize_3,gaussian_blur,Гауссовское размытие,False,sigma,1.0,0.6468,0.8762,0.2787,0.804,0.9648
+gaussian_blur_sigma_1.5_ksize_5,gaussian_blur,Гауссовское размытие,False,sigma,1.5,0.6186,0.8572,0.2671,0.7893,0.9227
+gaussian_blur_sigma_2.5_ksize_7,gaussian_blur,Гауссовское размытие,False,sigma,2.5,0.5654,0.8334,0.2449,0.772,0.8434
+gaussian_blur_sigma_3.5_ksize_9,gaussian_blur,Гауссовское размытие,False,sigma,3.5,0.5205,0.8083,0.2253,0.7541,0.7764
+gaussian_blur_sigma_5.0_ksize_13,gaussian_blur,Гауссовское размытие,False,sigma,5.0,0.425,0.7268,0.1862,0.7253,0.6339
+gaussian_blur_sigma_7.0_ksize_17,gaussian_blur,Гауссовское размытие,False,sigma,7.0,0.3324,0.662,0.1578,0.6954,0.4958
+gaussian_blur_sigma_10.0_ksize_23,gaussian_blur,Гауссовское размытие,False,sigma,10.0,0.2181,0.5681,0.1287,0.6656,0.3253
+gaussian_blur_sigma_14.0_ksize_31,gaussian_blur,Гауссовское размытие,False,sigma,14.0,0.127,0.4557,0.1216,0.6329,0.1894
+gaussian_blur_sigma_20.0_ksize_43,gaussian_blur,Гауссовское размытие,False,sigma,20.0,0.0498,0.2466,0.1232,0.6054,0.0743
+brightness_alpha_1.0_beta_-80,brightness,Изменение яркости,False,beta,-80.0,0.6123,0.8623,0.2801,0.7785,0.9133
+brightness_alpha_1.0_beta_-60,brightness,Изменение яркости,False,beta,-60.0,0.6344,0.8715,0.2862,0.7938,0.9463
+brightness_alpha_1.0_beta_-40,brightness,Изменение яркости,False,beta,-40.0,0.6586,0.88,0.288,0.8063,0.9824
+brightness_alpha_1.0_beta_-20,brightness,Изменение яркости,False,beta,-20.0,0.6693,0.8889,0.2889,0.8122,0.9984
+brightness_alpha_1.0_beta_0,brightness,Изменение яркости,False,beta,0.0,0.6704,0.8937,0.2886,0.8165,1.0
+brightness_alpha_1.0_beta_20,brightness,Изменение яркости,False,beta,20.0,0.6672,0.8842,0.285,0.8146,0.9952
+brightness_alpha_1.0_beta_40,brightness,Изменение яркости,False,beta,40.0,0.6632,0.8835,0.2849,0.8098,0.9893
+brightness_alpha_1.0_beta_60,brightness,Изменение яркости,False,beta,60.0,0.6563,0.8804,0.2809,0.8045,0.979
+brightness_alpha_1.0_beta_80,brightness,Изменение яркости,False,beta,80.0,0.6414,0.8756,0.2753,0.7947,0.9567
+brightness_alpha_1.0_beta_100,brightness,Изменение яркости,False,beta,100.0,0.6134,0.8619,0.2696,0.7857,0.915
+contrast_alpha_0.1_beta_0,contrast,Изменение контраста,False,alpha,0.1,0.5894,0.8505,0.2427,0.7717,0.8792
+contrast_alpha_0.2_beta_0,contrast,Изменение контраста,False,alpha,0.2,0.6257,0.8658,0.2724,0.7927,0.9333
+contrast_alpha_0.4_beta_0,contrast,Изменение контраста,False,alpha,0.4,0.6462,0.8769,0.2865,0.8058,0.9639
+contrast_alpha_0.6_beta_0,contrast,Изменение контраста,False,alpha,0.6,0.6545,0.8769,0.2871,0.8128,0.9763
+contrast_alpha_1.0_beta_0,contrast,Изменение контраста,False,alpha,1.0,0.6704,0.8937,0.2886,0.8165,1.0
+contrast_alpha_1.5_beta_0,contrast,Изменение контраста,False,alpha,1.5,0.6444,0.8794,0.2796,0.792,0.9612
+contrast_alpha_2.0_beta_0,contrast,Изменение контраста,False,alpha,2.0,0.5569,0.8175,0.2593,0.7595,0.8307
+contrast_alpha_2.5_beta_0,contrast,Изменение контраста,False,alpha,2.5,0.4631,0.7493,0.2265,0.7298,0.6908
+contrast_alpha_3.5_beta_0,contrast,Изменение контраста,False,alpha,3.5,0.3513,0.6639,0.1857,0.6931,0.524
+contrast_alpha_5.0_beta_0,contrast,Изменение контраста,False,alpha,5.0,0.2645,0.5309,0.1573,0.6719,0.3945
